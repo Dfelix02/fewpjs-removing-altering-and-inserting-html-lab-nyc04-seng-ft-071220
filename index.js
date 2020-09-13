@@ -1,1 +1,1 @@
-const newHeader = document.getElementById("h1");
+const newHeader = document.createElement("h1");
